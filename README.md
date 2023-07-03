@@ -1,2 +1,1 @@
-# PrepCourse-Henry-Caacostari
-Este es un repositorio del módulo 2 del prep course de Henry
+Este proyecto es una prueba sobre cómo crear un repositorio desde github y clonarlo en mi compotador. 
